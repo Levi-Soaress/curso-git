@@ -12,3 +12,8 @@ Este repositório serve para entender os conceitos de versionamento Git juntamen
 
 ## Materiais de Estudo:
 [Guia Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Informações sobre o repositório:
+![GitHub repo size](https://img.shields.io/github/repo-size/Levi-Soaress/curso-git)
+![GitHub watchers](https://img.shields.io/github/watchers/Levi-Soaress/curso-git)
+
