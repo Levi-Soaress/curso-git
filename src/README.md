@@ -8,7 +8,7 @@ Este repositório serve para entender os conceitos de versionamento Git juntamen
 ![Professor José de Assis Git-Github](https://youtu.be/FF1f4bKYhoo?si=FtN0FPhrBUVG3ItQ)
 
 ### Outros Recursos Utilizados:
-[Gustavo Guanabara Git-Github](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+![Gustavo Guanabara Git-Github](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
 
 ## Materiais de Estudo:
 [Guia Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
